@@ -1,0 +1,4 @@
+34 12 7
+Arthur 24
+Nataly 30
+Sasha 22

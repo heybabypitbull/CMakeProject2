@@ -1,0 +1,2 @@
+Sorted integers: 7 12 34 
+Sorted persons: Sasha (22) Arthur (24) Nataly (30) 
